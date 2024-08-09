@@ -1,2 +1,2 @@
 # sharingiscaring
-this is my first githhub repository
+this is my first github repository
